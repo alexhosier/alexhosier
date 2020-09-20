@@ -37,12 +37,10 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
+<summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="alexhosier's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alexhosier&show_icons=true&hide_border=true" />
+<img align="left" alt="alexhosier's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alexhosier&show_icons=true&hide_border=true" />
 
-</details>
 
 [website]: https://google.co.uk
 [twitter]: https://twitter.com/CheekiBabushka
