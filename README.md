@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to program and play games
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem-nh340knj9.vercel.app/api/spotify-playing" alt="Alexhosier Spotify Playing" width="350" />](https://open.spotify.com/user/alexhosier)
+[![Spotify](https://alexhosier.vercel.app/api/spotify)](https://open.spotify.com/user/alexhosier)
 
 ### Connect with me:
 
