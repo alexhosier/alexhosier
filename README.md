@@ -1,11 +1,9 @@
 ### Hi there, I'm Alex - aka [CheekiBabushka][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/cheekibabushka?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/alexhosier&screen_name=cheekibabushka)
 
 ## I'm a Student and Developer!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning C# and the Unity Engine
 - 🥅 2020 Goals: Learn C# and Unity to a decent standard
 - ⚡ Fun fact: I love to program and play games
