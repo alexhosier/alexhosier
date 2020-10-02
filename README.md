@@ -8,9 +8,6 @@
 - 🥅 2020 Goals: Learn C# and Unity to a decent standard
 - ⚡ Fun fact: I love to program and play games
 
-### Spotify Playing 🎧
-[![Spotify](https://novatorem.alexhosier.vercel.app/api/spotify)](https://open.spotify.com/user/alexhosier)
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
