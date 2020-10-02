@@ -8,8 +8,6 @@
 - 🥅 2020 Goals: Learn C# and Unity to a decent standard
 - ⚡ Fun fact: I love to program and play games
 
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
