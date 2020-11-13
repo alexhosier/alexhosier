@@ -1,7 +1,5 @@
 ### Hi there, I'm Alex - aka [CheekiBabushka][website] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/cheekibabushka?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/alexhosier&screen_name=cheekibabushka)
-
 ## I'm a Student and Developer!
 
 - 🌱 I’m currently learning C# and the Unity Engine
