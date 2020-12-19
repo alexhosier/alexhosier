@@ -1,10 +1,10 @@
-### Hi there, I'm Alex 👋
-
-## I'm a Student and Developer!
-
-- 🌱 I’m currently learning C# and the Unity Engine
-- 🥅 2020 Goals: Learn C# and Unity to a decent standard
-- ⚡ Fun fact: I love to program and play games
+```csharp
+public class Main {
+  public static void Main() {
+    Debug.Log("Welcome to my Github page!");
+  }
+}
+```
 
 ### Languages and Tools:
 
