@@ -1,4 +1,4 @@
-### Hi there, I'm Alex - aka CheekiBabushka👋
+### Hi there, I'm Alex 👋
 
 ## I'm a Student and Developer!
 
